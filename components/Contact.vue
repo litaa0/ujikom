@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-dark text-white pt-4">
+  <footer class="bg-primary text-white pt-4 jarak">
     <div class="container-fluid">
       <div class="row">
         <!-- Hubungi Kami -->
@@ -39,7 +39,7 @@
       </div>
     </div>
     <!-- Footer Bottom -->
-    <div class="bg-black text-center py-2">
+    <div class="bg-primary text-center py-2">
       <small>© SMKN 4 Tasikmalaya. All rights reserved.</small><br />
       <small>Designed and Engineered by <b>Operator</b></small>
     </div>
@@ -51,6 +51,10 @@ export default {};
 </script>
 
 <style>
+.jarak {
+  margin-top: 100px;
+}
+
 footer {
   font-size: 0.9rem;
 }

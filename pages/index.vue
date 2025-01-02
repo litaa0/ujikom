@@ -6,119 +6,30 @@
         <div class="slider-content">
           <img src="/assets/guru.jpg" alt="Berita" class="slider-image" />
         </div>
-       </div>
-
-      <!-- Sambutan Kepala Sekolah -->
-      <div class="sambutan">
-        <h3>Sambutan Kepala Sekolah</h3>
-        <div class="sambutan-content">
-          <img src="/assets/kep.jpg" alt="Kepala Sekolah" class="kepsek-image" />
-          <marquee direction="up" scrollamount="2" class="marquee-text">
-            Assalamu'alaikum Wr, Wb<br /><br />
-            Puji Syukur kepada Allah SWT, Tuhan yang maha esa yang telah memberikan rahmat dan anugerahnya sehingga WEBSITE SMKN 4 TASIKMALAYA ini dapat terbit. salah satu tujuan dari website ini adalah
-            untuk menjawab akan setiap kebutuhan informasi dengan memanfaatkan sarana teknologi informasi yang ada. 
-          </marquee>
-        </div>
       </div>
     </div>
-  </div>
 
-  <div class="container-fluid">
-    <!-- Header -->
-    <div class="row">
-      <div class="col-lg-12 p-3">
-      </div>
-      <div class="col-lg-12">
-        <h4 style="background-color: black;" class="text-white text-center rounded-3 p-2 m-3">
-          Kompetensi Keahlian <b>SMKN 4 TASIKMALAYA</b>
-        </h4>
-      </div>
-      <div class="col-lg-12">
-        <p style="background-color: whitesmoke;" class="rounded-3 p-1 m-3 text-secondary">
-          <NuxtLink to="/" class="text-decoration-none">Kurikulum</NuxtLink> / Kompetensi Keahlian
-        </p>
-      </div>
-       <!-- Kartu Kompetensi Keahlian -->
-    <div class="row d-flex justify-content-center">
-      <!-- Kartu 1 -->
-      <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card shadow-sm text-center" style="width: 100%;">
-          <div class="icon-container mx-auto mt-3">
-            <img src="/assets/DKV.jpg" class="card-icon" alt="Icon Kompetensi 1" style="width: 20%;">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title text-center">DKV</h5>
-            <p class="card-text">
-              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
-            </p>
+    <div class="container-fluid">
+      <!-- Sambutan Kepala Sekolah -->
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="sambutan">
+            <h3>Sambutan Kepala Sekolah</h3>
+            <div class="sambutan-content">
+              <img src="/assets/kep.jpg" alt="Kepala Sekolah" class="kepsek-image" />
+              <marquee direction="up" scrollamount="2" class="marquee-text">
+                Assalamu'alaikum Wr, Wb<br /><br />
+                Puji Syukur kepada Allah SWT, Tuhan yang maha esa yang telah memberikan rahmat dan anugerahnya sehingga WEBSITE SMKN 4 TASIKMALAYA ini dapat terbit. salah satu tujuan dari website ini adalah
+                untuk menjawab akan setiap kebutuhan informasi dengan memanfaatkan sarana teknologi informasi yang ada. 
+              </marquee>
+            </div>
           </div>
         </div>
       </div>
-
-      <!-- Kartu 2 -->
-      <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card shadow-sm text-center" style="width: 100%;">
-          <div class="icon-container mx-auto mt-3">
-            <img src="/assets/PPLG.jpg" class="card-icon" alt="Icon Kompetensi 2" style="width: 20%;">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title text-center">PPLG</h5>
-            <p class="card-text">
-              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Kartu 3 -->
-      <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card shadow-sm text-center" style="width: 100%;">
-          <div class="icon-container mx-auto mt-3">
-            <img src="/assets/TKJ.jpg" class="card-icon" alt="Icon Kompetensi 3" style="width: 20%;">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title text-center">TJKT</h5>
-            <p class="card-text">
-              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
-            </p>
-          </div>
-        </div>
-      </div>
-
-       <!-- Kartu 4 -->
-       <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card shadow-sm text-center" style="width: 100%;">
-          <div class="icon-container mx-auto mt-3">
-            <img src="/assets/TOI.jpg" class="card-icon" alt="Icon Kompetensi 3" style="width: 20%;">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title text-center">TOI</h5>
-            <p class="card-text">
-              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Kartu 5 -->
-      <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card shadow-sm text-center" style="width: 100%;">
-          <div class="icon-container mx-auto mt-3">
-            <img src="/assets/TBSM.jpg" class="card-icon" alt="Icon Kompetensi 3" style="width: 20%;">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title text-center">TBSM</h5>
-            <p class="card-text">
-              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
-            </p>
-          </div>
-        </div>
-      </div>
-
-       <!-- Pendidik dan Tenaga Kependidikan -->
-       <div class="col-lg-12 mb-3">
+        <!-- Pendidik dan Tenaga Kependidikan -->
+        <div class="col-lg-12 mb-3">
         <div class="card">
-          <div class="card-header bg-light">
+          <div class="card-header bg-primary text-white">
             <h5 class="text-center"> Pendidik dan Tenaga Kependidikan</h5>
           </div>
           <div class="card-body">
@@ -139,7 +50,7 @@
               <!-- Jumlah Guru Honorer -->
               <div class="col-md-6 mb-3">
                 <div class="card">
-                  <div class="card-header bg-secondary text-white">
+                  <div class="card-header bg-primary text-white">
                     <h6 class="text-center mb-0">Jumlah Guru Honorer</h6>
                   </div>
                   <div class="card-body">
@@ -152,7 +63,7 @@
               <!-- Jumlah Tenaga Administrasi PNS -->
               <div class="col-md-6 mb-3">
                 <div class="card">
-                  <div class="card-header bg-success text-white">
+                  <div class="card-header bg-primary text-white">
                     <h6 class="text-center mb-0">Jumlah Tenaga Administrasi PNS</h6>
                   </div>
                   <div class="card-body">
@@ -165,7 +76,7 @@
               <!-- Jumlah Tenaga Administrasi Honorer -->
               <div class="col-md-6 mb-3">
                 <div class="card">
-                  <div class="card-header bg-warning text-white">
+                  <div class="card-header bg-primary text-white">
                     <h6 class="text-center mb-0">Jumlah Tenaga Administrasi Honorer</h6>
                   </div>
                   <div class="card-body">
@@ -200,13 +111,9 @@
         </div>
       </div>
       </div>
-
-      
-    </div>
-    </div>
-    </div>
-
-</template>
+      </div>
+  </div>
+</template>>
 
 <script>
 export default {

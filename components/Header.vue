@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary shadow-sm">
       <div class="container-fluid">
         <a class="navbar-brand d-flex align-items-center" href="#">
           <img src="/assets/img.jpeg"alt="Logo" width="50" class="me-3" />
@@ -55,7 +55,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="Galeri">Ekstrakurikuler</a>
+              <a class="nav-link active" aria-current="page" href="Ekstrakulikuler">Ekstrakurikuler</a>
             </li>
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="Galeri">Galeri</a>
